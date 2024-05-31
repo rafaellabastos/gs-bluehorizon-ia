@@ -17,13 +17,11 @@
 #### 4. Rafaella Monique do Carmo Bastos - 552425
 <p></p><br>
 
-## Pitch:
+## Pitch + sistema desenvolvido:
 ...
 <p></p><br>
 
 ## Imagem dos diagramas:
-### Modelo Entidade-Relacionamento
-...
 
 ### Diagrama de Classes
 ...
