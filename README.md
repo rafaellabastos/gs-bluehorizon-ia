@@ -20,11 +20,3 @@
 ## Pitch + sistema desenvolvido:
 ...
 <p></p><br>
-
-## Imagem dos diagramas:
-
-### Diagrama de Classes
-...
-
-### Arquitetura da solução
-...
