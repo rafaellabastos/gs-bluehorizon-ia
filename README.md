@@ -20,6 +20,15 @@
 ## Arquivos:
 <p>1. Imagens utilizadas no notebook: https://drive.google.com/drive/folders/1_pOJz7wvoTKtsEZW1m-CdKJp8Q2mAJ1U?usp=drive_link</p>
 <p>2. Imagens utilizadas no Roboflow: https://drive.google.com/drive/folders/1qcdSZqzXr9WEFxRj5UWEqdebqPKsv5dm?usp=drive_link</p>
+<p></p><br>
+
+## Como rodar a aplicação:
+<p>1. Clone o repositório com arquivo .ipynb no Google Colab ou baixe o arquivo e adicione diretamente em upload</p>
+<p>2. Baixe os arquivos com as imagens utilizadas no notebook no link https://drive.google.com/drive/folders/1_pOJz7wvoTKtsEZW1m-CdKJp8Q2mAJ1U?usp=drive_link</p>
+<p>3. Descompacte a pasta, se necessário</p>
+<p>4. Adicione as imagens no notebook</p>
+<p>5. Rode a aplicação</p>
+<p></p><br>
 
 ## Pitch + sistema desenvolvido:
 ...
