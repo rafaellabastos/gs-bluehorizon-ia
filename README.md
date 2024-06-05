@@ -17,6 +17,10 @@
 #### 4. Rafaella Monique do Carmo Bastos - 552425
 <p></p><br>
 
+## Arquivos:
+<p>1. Imagens utilizadas no notebook: https://drive.google.com/drive/folders/1_pOJz7wvoTKtsEZW1m-CdKJp8Q2mAJ1U?usp=drive_link</p>
+<p>2. Imagens utilizadas no Roboflow: https://drive.google.com/drive/folders/1qcdSZqzXr9WEFxRj5UWEqdebqPKsv5dm?usp=drive_link</p>
+
 ## Pitch + sistema desenvolvido:
 ...
 <p></p><br>
